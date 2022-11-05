@@ -1,1 +1,1 @@
-For local: to run "__init__.py"
+__For local__: to run "_init_.py"
