@@ -9,4 +9,4 @@ services:
    environment:
      PORT: "1736"
    ports:
-     - "8080:8080"
+     - "1736:8080"
